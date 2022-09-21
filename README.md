@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Reaper786
+- 👋 Hi, I’m @AmeerHoosain
 - 👀 I’m interested in learning, games and cars
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any small projects
